@@ -1,0 +1,4 @@
+# Ignorar arquivos temporários
+*.sql~
+*.sql.bak
+*.sql.swp
